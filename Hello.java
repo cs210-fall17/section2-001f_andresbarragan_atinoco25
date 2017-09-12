@@ -18,14 +18,14 @@ public class Hello {
 
         // Gold Leader should add a print statement that says "Loosen up!"
     
-
+	System.out.println("Loosen up!");
     }
 
     public static void redLeader() {
  
         // Red Leader should add a print statement that says "I copy, gold leader!"
         
-	println("I copy, gold leader!");
+	System.out.println("I copy, gold leader!");
     }
 
 }
